@@ -1,0 +1,9 @@
+.personStyle {
+	background-color: gray;
+	border: 2px solid salmon;
+	box-shadow: 0em sandybrown;
+	width: 400px;
+	text-align: center;
+	padding: 10px;
+	margin-top: 20px;
+}
